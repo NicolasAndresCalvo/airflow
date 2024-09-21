@@ -14,7 +14,7 @@
     "@emotion/styled": "^11.1.5",
     "@neutrinojs/copy": "^9.5.0",
     "@vvo/tzdb": "^6.7.0",
-    "axios": "^0.21.3",
+    "axios": "^0.28.0",
     "dayjs": "^1.10.4",
     "dotenv": "^8.2.0",
     "framer-motion": "^3.10.0",
@@ -56,7 +56,7 @@
     "nock": "^13.0.11",
     "react-test-renderer": "^17.0.1",
     "typescript": "^4.2.3",
-    "webpack": "^4",
+    "webpack": "^5",
     "webpack-cli": "^3",
     "webpack-dev-server": "^3"
   }
